@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhakad-upendra
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Python and Penetration testing
-- 📫 How to reach me ...
+- 📫 How to reach me - Email
 - 😄 Pronouns:  He\him
  
 
